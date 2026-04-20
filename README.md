@@ -1,13 +1,13 @@
-# Telegram Similar Channel Search with Deskgram 2
+﻿# Telegram Similar Channel Search with Deskgram 2
 
 Similar Channel Search in Deskgram 2 helps you expand a Telegram source map from already trusted communities instead of relying only on keyword guesses. This module works best when you already know a few strong channels in the niche and want to scale discovery around them.
 
-[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=en)
 ## Interactive Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_similar_channels)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_similar_channels&lang=en)
 
-Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_similar_channels)
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_similar_channels&lang=en)
 
 
 
@@ -117,3 +117,4 @@ Not always. It is usually strongest after you already have a few proven seed com
 ### Can I combine it with other discovery routes?
 
 Yes. It works especially well after keyword search and before parsing.
+
